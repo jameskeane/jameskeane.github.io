@@ -1,22 +1,22 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Nomad
+tagline:          Adventures in Income Hacking
+description:      A blog discussing passive income hacking and my experiences with it.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://nomad.la
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           James Keane
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        ctrunsthis        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
+  bio:            "Code Nomad"
+  email:          james@nomad.la
+  twitter:        jamesjkeane        
+  github:         jameskeane       
+  # instagram:      ctrunsthis     
+  # dribbble:       coletownsend
+  disqus:         codenomad
   # Plug in your disqus shortname!
-  
+
 
 # Links to include in top navigation
 # For external links add external: true
@@ -24,14 +24,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/jameskeane
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: James Who?
+    url: http://jameskeane.ca
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Toronto
 future:      true
 pygments:    true
 markdown:    kramdown
