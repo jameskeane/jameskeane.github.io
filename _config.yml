@@ -2,7 +2,7 @@ title:            Nomad
 tagline:          Adventures in Income Hacking
 description:      A blog discussing passive income hacking and my experiences with it.
 #Comment out url when working locally to resolve base urls correctly
-url: http://nomad.la
+url: http://localhost:4000
 
 # Owner/author information
 owner:
@@ -23,6 +23,8 @@ owner:
 links:
   - title: About
     url: /about
+  - title: Sites
+    url: /sites
   - title: Github
     url: https://github.com/jameskeane
     external: true

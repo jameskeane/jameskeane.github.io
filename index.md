@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Nomad, Saas, Passive Income Hacker, web development]
 image:
   feature: typewriter.jpg
 ---
