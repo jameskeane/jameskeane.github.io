@@ -20,15 +20,15 @@ Did I pick a bad niche? Is the market just way too small? Too saturated? Cheap? 
 
 > Dude, it's only been a week, chill the fuck out.
 
-Oh right, so far from announcement to the date of this post has actually only been 6 days. So less than a week! But honestly, it feels like it's been months. I've been watching signups slowly trickle in, analytics slowly get to organic levels, and I need to chill the fuck out. There is wisdom in old wives tales.
+So far from announcement to the date of this post it has actually only been 6 days. So less than a week! But honestly, it feels like it's been months. I've been watching signups slowly trickle in, analytics slowly get to organic levels, and I need to chill the fuck out. There is wisdom in old wives tales.
 
 ###2. Feel "alright" about it
-Objectively things are going pretty good. I've been slowely pushing features out, updating my pricing, optimizing for mobile. I've also got a few signups here and there. Real signups!
+Objectively things are going pretty good. I've been slowly pushing features out, updating my pricing, optimizing for mobile. I've also got a few signups here and there. Real organic fucking signups!
 
 It hasn't been a homerun, but I don't think any new product really is. There might be exceptions, but I'm sure Google was at this stage once. It's not like I can build hype for a fucking <a href="https://www.bespeak.io/online-booking-calendar">scheduling application</a>!
 
 ###3. Enjoy the freedom
-I really enjoy it. Working on <a href="https://www.bespeak.io">Bespeak</a> doesn't feel like work. Interacting with people (customers even!), is actually pretty fun; it really complements the loneliness of software development. Other times it feels like no one is listening.
+I really enjoy it. Working on <a href="https://www.bespeak.io">Bespeak</a> doesn't feel like work. Interacting with people (customers!) is actually pretty fun; it **really** complements the loneliness and alpha dogging of software development. But sometimes it feels like no one is listening.
 
 <figure class="effect6">
     <img src="/images/megaphone.jpg" alt="Anyone listening?" attribution="http://www.flickr.com/photos/rpenalozan/" />
